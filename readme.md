@@ -26,7 +26,7 @@ source venv/bin/activate
 ## Step 3: Install FastAPI and Uvicorn
 
 ```bash
-pip install fastapi uvicorn
+pip install -r requirements.txt
 ```
 
 ## Step 4: Run
