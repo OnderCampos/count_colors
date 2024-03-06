@@ -8,14 +8,6 @@ from sklearn.cluster import AffinityPropagation
 from sklearn import metrics
 
 
-"""
-create a python program that do the follow:
-1) Get the countorns of the image
-2) For every countorn calculate the mean value, 
-considering if a contorn is inside another do not consider the inner countorns in the mean 
-
-"""
-
 def affinityPropagation(image):
     print("hello", image)
     image = cv2.cvtColor(np.array(image), cv2.COLOR_BGR2RGB)  # Convert to RGB format for compatibility
