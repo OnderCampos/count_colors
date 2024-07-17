@@ -1,42 +1,15 @@
-## **sklearn** 
- - scikit-learn is a machine learning library in Python.
-  - `pip install scikit-learn`
-## **FastAPI** 
- - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.
-  - `pip install fastapi`
-## **io** 
- - Python input/output tools.
-  - `No installation required`
-## **src.utils.general** 
- - Custom utility module.
-  - `No installation required`
-## **sklearn.metrics** 
- - Perform various metrics for evaluating clusters.
-  - `pip install scikit-learn`
-## **src.routes** 
- - Custom routes module.
-  - `No installation required`
-## **cv2** 
- - OpenCV is a library for real-time computer vision.
-  - `pip install opencv-python`
-## **File** 
- - FastAPI File class.
-  - `No installation required`
-## **UploadFile** 
- - FastAPI UploadFile class.
-  - `No installation required`
-## **MeanShift** 
- - Mean shift clustering algorithm implementation.
-  - `pip install scikit-learn`
-## **estimate_bandwidth** 
- - Estimate bandwidth for MeanShift clustering.
-  - `pip install scikit-learn`
-## **APIRouter** 
- - FastAPI APIRouter class.
-  - `pip install fastapi`
 ## **numpy** 
- - Package for scientific computing with Python.
+ - NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
   - `pip install numpy`
-## **PIL** 
- - Python Imaging Library (PIL) is a free library for the Python programming language that adds support for opening, manipulating, and saving many different image file formats.
+## **fastapi** 
+ - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.9+ based on standard Python type hints.
+  - `pip install fastapi`
+## **sklearn** 
+ - Scikit-learn is a free software machine learning library for the Python programming language. It features various classification, regression, and clustering algorithms, including support vector machines, random forests, gradient boosting, k-means, and DBSCAN.
+  - `pip install scikit-learn`
+## **opencv** 
+ - OpenCV is an open-source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception.
+  - `pip install opencv-python`
+## **Pillow** 
+ - Pillow is a free and open-source library for opening, manipulating, and saving many different image file formats. It provides easy-to-use functions for various image operations.
   - `pip install pillow`
